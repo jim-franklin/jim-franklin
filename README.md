@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jim-franklin
-- 👀 I’m interested in Python Programming, Data Science, Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning Python and real-world applications of the language
-- 💞️ I’m looking to collaborate with professionals or anybody interested in Python Programming and its applications
+- 👀 I have a keen interest in Python Programming, Data Science, Artificial Intelligence, and Machine Learning
+- 🌱 Currently, I'm deeply engrossed in mastering Python and exploring its practical applications
+- 💞️ I'm eager to join forces with fellow professionals or enthusiasts passionate about Python Programming and its diverse applications
 - 📫 Reach me via email: jimmyfranklin2000@gmail.com
 
 <!---
